@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning @ Yandex Practicum DS 
+- 🌱 I’m currently learning @ Yandex Practicum DS - graduation in 04/2023
 - 📫 How to reach me: 
 
 <div id="badges" align="left">
