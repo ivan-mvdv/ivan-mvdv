@@ -7,9 +7,6 @@
   <a href="https://t.me/chpwr5931">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=rgb" alt="Telegram Badge"/>
   </a>
-  <a href="https://hh.ru/resume/7ac5155dff0bcebfa70039ed1f364e78515a68">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/640px-HeadHunter_logo.png" alt="HH Badge"/>
-  </a>  
   <a href="mailto:ivan.mvdv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/>
   </a>
