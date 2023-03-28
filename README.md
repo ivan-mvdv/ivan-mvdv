@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning @ Yandex Practicum DS 
 - 📫 How to reach me: 
-- 
+
 <div id="badges" align="left">
   <a href="https://t.me/chpwr5931">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=rgb" alt="Telegram Badge"/>
@@ -13,7 +13,7 @@
 </div>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
